@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Data Cleaner
+
+**Embryo Data Cleaner** is Embryo-Zero's fork of [datatrove](https://github.com/huggingface/datatrove), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # DataTrove
 
 DataTrove is a library to process, filter and deduplicate text data at a very large scale. It provides a set of prebuilt commonly used processing blocks with a framework to easily add custom functionality.
